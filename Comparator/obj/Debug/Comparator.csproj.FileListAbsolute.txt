@@ -1,0 +1,27 @@
+C:\Users\hurka\Desktop\Comparator\Comparator\bin\Debug\Comparator.exe.config
+C:\Users\hurka\Desktop\Comparator\Comparator\bin\Debug\Comparator.exe
+C:\Users\hurka\Desktop\Comparator\Comparator\bin\Debug\Comparator.pdb
+C:\Users\hurka\Desktop\Comparator\Comparator\obj\Debug\Comparator.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Comparator\Comparator\obj\Debug\Comparator.Screen.resources
+C:\Users\hurka\Desktop\Comparator\Comparator\obj\Debug\Comparator.Properties.Resources.resources
+C:\Users\hurka\Desktop\Comparator\Comparator\obj\Debug\Comparator.csproj.GenerateResource.Cache
+C:\Users\hurka\Desktop\Comparator\Comparator\obj\Debug\Comparator.exe
+C:\Users\hurka\Desktop\Comparator\Comparator\obj\Debug\Comparator.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\bin\Debug\Comparator.exe.config
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\obj\Debug\Comparator.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\obj\Debug\Comparator.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\bin\Debug\Comparator.exe
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\bin\Debug\Comparator.pdb
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\obj\Debug\Comparator.csprojResolveAssemblyReference.cache
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\obj\Debug\Comparator.Screen.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\obj\Debug\Comparator.Properties.Resources.resources
+C:\Users\hurka\Desktop\Hurkan Ugur\Computer Engineering\5) C# Programming\Comparator\Comparator\obj\Debug\Comparator.csproj.GenerateResource.Cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\bin\Debug\Comparator.exe.config
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\bin\Debug\Comparator.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\bin\Debug\Comparator.pdb
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\obj\Debug\Comparator.csprojResolveAssemblyReference.cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\obj\Debug\Comparator.Screen.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\obj\Debug\Comparator.Properties.Resources.resources
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\obj\Debug\Comparator.csproj.GenerateResource.Cache
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\obj\Debug\Comparator.exe
+E:\Hurkan Ugur\Computer Engineering\4) C# Programming\Comparator\Comparator\obj\Debug\Comparator.pdb
