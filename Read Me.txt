@@ -1,0 +1,14 @@
+# Image-Comparator
+Image Comparator enables the user to see pixel differences of the pictures.
+
+
+Important Note:
+----------------
+1) When you run the program and your comparison process is over, to make another comparison, you should restart the app, otherwise, the program may crash !
+2) If [Save The Different Ones] is not selected, program may crash !
+
+Options:
+---------
+[Save The Different Ones]: Compares the pictures and saves the different images as well as saving differences between the images as well. (This must be selected always)
+[Observe Differences]: You can observe pixel scanning during the "Save The Different Ones" option. (This may take some time)
+
